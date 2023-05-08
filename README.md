@@ -8,6 +8,8 @@ We're also maintaining:
 - [ossjobs.dev](https://www.ossjobs.dev/) where you can find awesome jobs in OSS startups
 - [awesome OSS investors](https://github.com/CrowdDotDev/awesome-oss-investors) where you can find VCs actively investing in OSS startups
 
+<br>
+
 If you want to support our work, [leave crowd.dev a star ⭐️](https://github.com/CrowdDotDev/crowd.dev).
 
 <div>
