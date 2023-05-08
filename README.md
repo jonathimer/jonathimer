@@ -12,11 +12,12 @@ We're also maintaining:
 
 If you want to support our work, [leave crowd.dev a star ⭐️](https://github.com/CrowdDotDev/crowd.dev).
 
+<br>
 <div>
   <a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/41432658/236833469-6798b08c-3ddf-499d-8957-36a9921ae2b4.png">
-    <img src="https://user-images.githubusercontent.com/41432658/236833469-6798b08c-3ddf-499d-8957-36a9921ae2b4.png" width="400" alt="Logo"/>
+    <img src="https://user-images.githubusercontent.com/41432658/236833469-6798b08c-3ddf-499d-8957-36a9921ae2b4.png" width="300" alt="Logo"/>
   </picture>
   </a>
 </div>
