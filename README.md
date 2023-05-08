@@ -4,7 +4,7 @@ My name is Jonathan and I'm the co-founder of [crowd.dev](https://github.com/Cro
 
 We're also maintaining: 
 - [opensourcealternative.to](https://www.opensourcealternative.to/) where already 1m+ people researched open-source alternatives
-- [analyzemyrepo.com](https://analyzemyrepo.com/) where you can analyze community insights of any GitHub repository
+- [analyzemyrepo.com](https://analyzemyrepo.com/) where you can analyze any GitHub repository
 - [ossjobs.dev](https://www.ossjobs.dev/) where you can find awesome jobs in OSS startups
 - [awesome OSS investors](https://github.com/CrowdDotDev/awesome-oss-investors) where you can find VCs actively investing in OSS startups
 
