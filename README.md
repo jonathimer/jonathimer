@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Jonathan and I'm the co-founder of [crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - the open-source platform to centralize community, product, and customer data. We help open-source organizations like the Linux Foundation, OpenBB, Qdrant, and 100s more to manage their community and build a meanigful business out of it.
+My name is Jonathan and I'm the co-founder of [crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - an open-source platform to centralize community, product, and customer data. We help open-source organizations like the Linux Foundation, OpenBB, Qdrant, and 100s more to manage their community and build a meanigful business out of it.
 
 We're also maintaining: 
 - [opensourcealternative.to](https://www.opensourcealternative.to/) where already 1m+ people researched open-source alternatives
