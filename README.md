@@ -1,23 +1,14 @@
 ## Hi there 👋
 
-My name is Jonathan and I'm the co-founder of [crowd.dev](https://github.com/CrowdDotDev/crowd.dev) - an open-source platform to centralize community, product, and customer data. We help open-source organizations like the Linux Foundation, OpenBB, Qdrant, and 100s more to manage their community and build a meanigful business out of it.
+I'm the Vice President of Developer Products at the [Linux Foundation](https://www.linuxfoundation.org/), the nonprofit organization enabling mass innovation through open source. Together with the world's leading developers and tech companies, we are solving the hardest technology problems by creating the largest shared technology investment in history. Nearly 1,000 of the most critical open source projects are under the umbrella of the Linux Foundation, including Linux Kernel, Kubernetes, PyTorch, Node.js, and many more.
 
-We're also maintaining: 
-- [opensourcealternative.to](https://www.opensourcealternative.to/) where already 1m+ people researched open-source alternatives
-- [analyzemyrepo.com](https://analyzemyrepo.com/) where you can analyze any GitHub repository
-- [ossjobs.dev](https://www.ossjobs.dev/) where you can find awesome jobs in OSS startups
+Previously, I co-founded crowd.dev, the connected developer data platform. We enabled open source and dev-first companies to centralize all touch points developers have with their brand - be it in community, product, or commercial channels. crowd.dev was acquired by the Linux Foundation in 2024.
+
+In other previous roles, I supported early-stage dev-first startups in the areas of community building, product strategy, and business development. I have also initiated several developer conferences and meetups, for example, the FuzzCon Europe, the Open Confidential Computing Conference (OC3), or most recently the Open-Source Drinks series with events in Berlin, London, and New York.
+
+Always open to connect (as long as you don't want to offer me development or recruiting services)!
+
+### Fun projects
+- [opensourcealternative.to](https://www.opensourcealternative.to/) where already 2m+ people researched for open-source alternatives to popular SaaS
+- [Open Pioneers](https://openpioneers.com/) a weekly open source newsletter with 10k+ subscribers
 - [awesome OSS investors](https://github.com/CrowdDotDev/awesome-oss-investors) where you can find VCs actively investing in OSS startups
-
-<br>
-
-If you want to support our work, [leave crowd.dev a star ⭐️](https://github.com/CrowdDotDev/crowd.dev).
-
-<br>
-<div>
-  <a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/41432658/236833469-6798b08c-3ddf-499d-8957-36a9921ae2b4.png">
-    <img src="https://user-images.githubusercontent.com/41432658/236833469-6798b08c-3ddf-499d-8957-36a9921ae2b4.png" width="300" alt="Logo"/>
-  </picture>
-  </a>
-</div>
