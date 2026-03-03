@@ -8,3 +8,4 @@ Previously, I co-founded crowd.dev, the connected developer data platform. We en
 - [opensourcealternative.to](https://www.opensourcealternative.to/) where already 2m+ people researched for open-source alternatives to popular SaaS
 - [Open Pioneers](https://openpioneers.com/) a weekly open source newsletter with 10k+ subscribers
 - [awesome OSS investors](https://github.com/CrowdDotDev/awesome-oss-investors) where you can find VCs actively investing in OSS startups
+- [devmarketing-skills](https://github.com/jonathimer/devmarketing-skills) Claude & AI Agents skills for marketing to developers
